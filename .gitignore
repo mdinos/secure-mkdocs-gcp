@@ -1,0 +1,7 @@
+dist/
+node_modules/
+mkdocs/site
+.terraform*
+terraform.tfstate*
+terraform.tfvars
+gcs-proxy/build-push.sh
